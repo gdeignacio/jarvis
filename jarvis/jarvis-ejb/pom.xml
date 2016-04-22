@@ -16,8 +16,8 @@
   <url>http://maven.apache.org</url>
 
   <dependencies>
-    
-        <!--dependency>
+
+        <dependency>
             <groupId>org.jboss.javaee</groupId>
             <artifactId>jboss-ejb-api</artifactId>
             <version>3.0.0.GA</version>
@@ -40,12 +40,12 @@
             <artifactId>jboss-ejb3-ext-api</artifactId>
             <version>1.0.0</version>
             <scope>provided</scope>
-        </dependency-->
-    
-    
-    
+        </dependency>
+
+
+
      <!--  Dependencies JPA
-     
+
       <dependency>
             <groupId>org.hibernate</groupId>
             <artifactId>ejb3-persistence</artifactId>
@@ -58,9 +58,9 @@
             <version>1.0.1.GA</version>
             <scope>provided</scope>
         </dependency>
-    
+
         -->
-        <!--
+
         <dependency>
             <groupId>apache-logging</groupId>
             <artifactId>commons-logging</artifactId>
@@ -91,10 +91,10 @@
             <artifactId>commons-io</artifactId>
             <version>2.4</version>
             <scope>provided</scope>
-        </dependency-->
-    
-    
-    
+        </dependency>
+
+
+
     </dependencies>
 
     <repositories>
